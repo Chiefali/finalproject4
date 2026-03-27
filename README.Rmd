@@ -24,12 +24,6 @@ project_data <- data |>
 
 ```
 
- #Descriptive statistic and Table one
-```{r}
-library(labelled)
-library(gtsummary)
-
-```
 
 
 ```{r}
@@ -78,10 +72,7 @@ table1 <- project_data |>
 
 table1
 ```
-```{r}
-cor.test(project_data$pct_population_below_poverty,
-         project_data$pct_adults_25plus_bachelors_or_higher)
-```
+
 ```{r}
 library(ggplot2)
 
