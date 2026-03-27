@@ -23,20 +23,20 @@ regression model assessing these associations
 
 \#Table 1
 
-<div id="bhhtthjczj" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
-<style>#bhhtthjczj table {
+<div id="uvsfigyqps" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>#uvsfigyqps table {
   font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-&#10;#bhhtthjczj thead, #bhhtthjczj tbody, #bhhtthjczj tfoot, #bhhtthjczj tr, #bhhtthjczj td, #bhhtthjczj th {
+&#10;#uvsfigyqps thead, #uvsfigyqps tbody, #uvsfigyqps tfoot, #uvsfigyqps tr, #uvsfigyqps td, #uvsfigyqps th {
   border-style: none;
 }
-&#10;#bhhtthjczj p {
+&#10;#uvsfigyqps p {
   margin: 0;
   padding: 0;
 }
-&#10;#bhhtthjczj .gt_table {
+&#10;#uvsfigyqps .gt_table {
   display: table;
   border-collapse: collapse;
   line-height: normal;
@@ -61,11 +61,11 @@ regression model assessing these associations
   border-left-width: 2px;
   border-left-color: #D3D3D3;
 }
-&#10;#bhhtthjczj .gt_caption {
+&#10;#uvsfigyqps .gt_caption {
   padding-top: 4px;
   padding-bottom: 4px;
 }
-&#10;#bhhtthjczj .gt_title {
+&#10;#uvsfigyqps .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -76,7 +76,7 @@ regression model assessing these associations
   border-bottom-color: #FFFFFF;
   border-bottom-width: 0;
 }
-&#10;#bhhtthjczj .gt_subtitle {
+&#10;#uvsfigyqps .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -87,7 +87,7 @@ regression model assessing these associations
   border-top-color: #FFFFFF;
   border-top-width: 0;
 }
-&#10;#bhhtthjczj .gt_heading {
+&#10;#uvsfigyqps .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -98,12 +98,12 @@ regression model assessing these associations
   border-right-width: 1px;
   border-right-color: #D3D3D3;
 }
-&#10;#bhhtthjczj .gt_bottom_border {
+&#10;#uvsfigyqps .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
-&#10;#bhhtthjczj .gt_col_headings {
+&#10;#uvsfigyqps .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -117,7 +117,7 @@ regression model assessing these associations
   border-right-width: 1px;
   border-right-color: #D3D3D3;
 }
-&#10;#bhhtthjczj .gt_col_heading {
+&#10;#uvsfigyqps .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -136,7 +136,7 @@ regression model assessing these associations
   padding-right: 5px;
   overflow-x: hidden;
 }
-&#10;#bhhtthjczj .gt_column_spanner_outer {
+&#10;#uvsfigyqps .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -147,13 +147,13 @@ regression model assessing these associations
   padding-left: 4px;
   padding-right: 4px;
 }
-&#10;#bhhtthjczj .gt_column_spanner_outer:first-child {
+&#10;#uvsfigyqps .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
-&#10;#bhhtthjczj .gt_column_spanner_outer:last-child {
+&#10;#uvsfigyqps .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
-&#10;#bhhtthjczj .gt_column_spanner {
+&#10;#uvsfigyqps .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -164,10 +164,10 @@ regression model assessing these associations
   display: inline-block;
   width: 100%;
 }
-&#10;#bhhtthjczj .gt_spanner_row {
+&#10;#uvsfigyqps .gt_spanner_row {
   border-bottom-style: hidden;
 }
-&#10;#bhhtthjczj .gt_group_heading {
+&#10;#uvsfigyqps .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -192,7 +192,7 @@ regression model assessing these associations
   vertical-align: middle;
   text-align: left;
 }
-&#10;#bhhtthjczj .gt_empty_group_heading {
+&#10;#uvsfigyqps .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -206,13 +206,13 @@ regression model assessing these associations
   border-bottom-color: #D3D3D3;
   vertical-align: middle;
 }
-&#10;#bhhtthjczj .gt_from_md > :first-child {
+&#10;#uvsfigyqps .gt_from_md > :first-child {
   margin-top: 0;
 }
-&#10;#bhhtthjczj .gt_from_md > :last-child {
+&#10;#uvsfigyqps .gt_from_md > :last-child {
   margin-bottom: 0;
 }
-&#10;#bhhtthjczj .gt_row {
+&#10;#uvsfigyqps .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -230,7 +230,7 @@ regression model assessing these associations
   vertical-align: middle;
   overflow-x: hidden;
 }
-&#10;#bhhtthjczj .gt_stub {
+&#10;#uvsfigyqps .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -242,7 +242,7 @@ regression model assessing these associations
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#bhhtthjczj .gt_stub_row_group {
+&#10;#uvsfigyqps .gt_stub_row_group {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -255,13 +255,13 @@ regression model assessing these associations
   padding-right: 5px;
   vertical-align: top;
 }
-&#10;#bhhtthjczj .gt_row_group_first td {
+&#10;#uvsfigyqps .gt_row_group_first td {
   border-top-width: 2px;
 }
-&#10;#bhhtthjczj .gt_row_group_first th {
+&#10;#uvsfigyqps .gt_row_group_first th {
   border-top-width: 2px;
 }
-&#10;#bhhtthjczj .gt_summary_row {
+&#10;#uvsfigyqps .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -270,14 +270,14 @@ regression model assessing these associations
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#bhhtthjczj .gt_first_summary_row {
+&#10;#uvsfigyqps .gt_first_summary_row {
   border-top-style: solid;
   border-top-color: #D3D3D3;
 }
-&#10;#bhhtthjczj .gt_first_summary_row.thick {
+&#10;#uvsfigyqps .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
-&#10;#bhhtthjczj .gt_last_summary_row {
+&#10;#uvsfigyqps .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -286,7 +286,7 @@ regression model assessing these associations
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
-&#10;#bhhtthjczj .gt_grand_summary_row {
+&#10;#uvsfigyqps .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -295,7 +295,7 @@ regression model assessing these associations
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#bhhtthjczj .gt_first_grand_summary_row {
+&#10;#uvsfigyqps .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -304,7 +304,7 @@ regression model assessing these associations
   border-top-width: 6px;
   border-top-color: #D3D3D3;
 }
-&#10;#bhhtthjczj .gt_last_grand_summary_row_top {
+&#10;#uvsfigyqps .gt_last_grand_summary_row_top {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -313,10 +313,10 @@ regression model assessing these associations
   border-bottom-width: 6px;
   border-bottom-color: #D3D3D3;
 }
-&#10;#bhhtthjczj .gt_striped {
+&#10;#uvsfigyqps .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
-&#10;#bhhtthjczj .gt_table_body {
+&#10;#uvsfigyqps .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -324,7 +324,7 @@ regression model assessing these associations
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
-&#10;#bhhtthjczj .gt_footnotes {
+&#10;#uvsfigyqps .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -337,7 +337,7 @@ regression model assessing these associations
   border-right-width: 2px;
   border-right-color: #D3D3D3;
 }
-&#10;#bhhtthjczj .gt_footnote {
+&#10;#uvsfigyqps .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-top: 4px;
@@ -345,7 +345,7 @@ regression model assessing these associations
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#bhhtthjczj .gt_sourcenotes {
+&#10;#uvsfigyqps .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -358,64 +358,64 @@ regression model assessing these associations
   border-right-width: 2px;
   border-right-color: #D3D3D3;
 }
-&#10;#bhhtthjczj .gt_sourcenote {
+&#10;#uvsfigyqps .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#bhhtthjczj .gt_left {
+&#10;#uvsfigyqps .gt_left {
   text-align: left;
 }
-&#10;#bhhtthjczj .gt_center {
+&#10;#uvsfigyqps .gt_center {
   text-align: center;
 }
-&#10;#bhhtthjczj .gt_right {
+&#10;#uvsfigyqps .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
-&#10;#bhhtthjczj .gt_font_normal {
+&#10;#uvsfigyqps .gt_font_normal {
   font-weight: normal;
 }
-&#10;#bhhtthjczj .gt_font_bold {
+&#10;#uvsfigyqps .gt_font_bold {
   font-weight: bold;
 }
-&#10;#bhhtthjczj .gt_font_italic {
+&#10;#uvsfigyqps .gt_font_italic {
   font-style: italic;
 }
-&#10;#bhhtthjczj .gt_super {
+&#10;#uvsfigyqps .gt_super {
   font-size: 65%;
 }
-&#10;#bhhtthjczj .gt_footnote_marks {
+&#10;#uvsfigyqps .gt_footnote_marks {
   font-size: 75%;
   vertical-align: 0.4em;
   position: initial;
 }
-&#10;#bhhtthjczj .gt_asterisk {
+&#10;#uvsfigyqps .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
-&#10;#bhhtthjczj .gt_indent_1 {
+&#10;#uvsfigyqps .gt_indent_1 {
   text-indent: 5px;
 }
-&#10;#bhhtthjczj .gt_indent_2 {
+&#10;#uvsfigyqps .gt_indent_2 {
   text-indent: 10px;
 }
-&#10;#bhhtthjczj .gt_indent_3 {
+&#10;#uvsfigyqps .gt_indent_3 {
   text-indent: 15px;
 }
-&#10;#bhhtthjczj .gt_indent_4 {
+&#10;#uvsfigyqps .gt_indent_4 {
   text-indent: 20px;
 }
-&#10;#bhhtthjczj .gt_indent_5 {
+&#10;#uvsfigyqps .gt_indent_5 {
   text-indent: 25px;
 }
-&#10;#bhhtthjczj .katex-display {
+&#10;#uvsfigyqps .katex-display {
   display: inline-flex !important;
   margin-bottom: 0.75em !important;
 }
-&#10;#bhhtthjczj div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
+&#10;#uvsfigyqps div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
   height: 0px !important;
 }
 </style>
@@ -463,20 +463,20 @@ N = 38</span><span class="gt_footnote_marks" style="white-space:nowrap;font-styl
 \#A linear regression model estimates the relationship between poverty
 and education levels.
 
-<div id="zjhbbqwbwr" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
-<style>#zjhbbqwbwr table {
+<div id="wmmrgvwowe" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>#wmmrgvwowe table {
   font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-&#10;#zjhbbqwbwr thead, #zjhbbqwbwr tbody, #zjhbbqwbwr tfoot, #zjhbbqwbwr tr, #zjhbbqwbwr td, #zjhbbqwbwr th {
+&#10;#wmmrgvwowe thead, #wmmrgvwowe tbody, #wmmrgvwowe tfoot, #wmmrgvwowe tr, #wmmrgvwowe td, #wmmrgvwowe th {
   border-style: none;
 }
-&#10;#zjhbbqwbwr p {
+&#10;#wmmrgvwowe p {
   margin: 0;
   padding: 0;
 }
-&#10;#zjhbbqwbwr .gt_table {
+&#10;#wmmrgvwowe .gt_table {
   display: table;
   border-collapse: collapse;
   line-height: normal;
@@ -501,11 +501,11 @@ and education levels.
   border-left-width: 2px;
   border-left-color: #D3D3D3;
 }
-&#10;#zjhbbqwbwr .gt_caption {
+&#10;#wmmrgvwowe .gt_caption {
   padding-top: 4px;
   padding-bottom: 4px;
 }
-&#10;#zjhbbqwbwr .gt_title {
+&#10;#wmmrgvwowe .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -516,7 +516,7 @@ and education levels.
   border-bottom-color: #FFFFFF;
   border-bottom-width: 0;
 }
-&#10;#zjhbbqwbwr .gt_subtitle {
+&#10;#wmmrgvwowe .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -527,7 +527,7 @@ and education levels.
   border-top-color: #FFFFFF;
   border-top-width: 0;
 }
-&#10;#zjhbbqwbwr .gt_heading {
+&#10;#wmmrgvwowe .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -538,12 +538,12 @@ and education levels.
   border-right-width: 1px;
   border-right-color: #D3D3D3;
 }
-&#10;#zjhbbqwbwr .gt_bottom_border {
+&#10;#wmmrgvwowe .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
-&#10;#zjhbbqwbwr .gt_col_headings {
+&#10;#wmmrgvwowe .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -557,7 +557,7 @@ and education levels.
   border-right-width: 1px;
   border-right-color: #D3D3D3;
 }
-&#10;#zjhbbqwbwr .gt_col_heading {
+&#10;#wmmrgvwowe .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -576,7 +576,7 @@ and education levels.
   padding-right: 5px;
   overflow-x: hidden;
 }
-&#10;#zjhbbqwbwr .gt_column_spanner_outer {
+&#10;#wmmrgvwowe .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -587,13 +587,13 @@ and education levels.
   padding-left: 4px;
   padding-right: 4px;
 }
-&#10;#zjhbbqwbwr .gt_column_spanner_outer:first-child {
+&#10;#wmmrgvwowe .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
-&#10;#zjhbbqwbwr .gt_column_spanner_outer:last-child {
+&#10;#wmmrgvwowe .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
-&#10;#zjhbbqwbwr .gt_column_spanner {
+&#10;#wmmrgvwowe .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -604,10 +604,10 @@ and education levels.
   display: inline-block;
   width: 100%;
 }
-&#10;#zjhbbqwbwr .gt_spanner_row {
+&#10;#wmmrgvwowe .gt_spanner_row {
   border-bottom-style: hidden;
 }
-&#10;#zjhbbqwbwr .gt_group_heading {
+&#10;#wmmrgvwowe .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -632,7 +632,7 @@ and education levels.
   vertical-align: middle;
   text-align: left;
 }
-&#10;#zjhbbqwbwr .gt_empty_group_heading {
+&#10;#wmmrgvwowe .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -646,13 +646,13 @@ and education levels.
   border-bottom-color: #D3D3D3;
   vertical-align: middle;
 }
-&#10;#zjhbbqwbwr .gt_from_md > :first-child {
+&#10;#wmmrgvwowe .gt_from_md > :first-child {
   margin-top: 0;
 }
-&#10;#zjhbbqwbwr .gt_from_md > :last-child {
+&#10;#wmmrgvwowe .gt_from_md > :last-child {
   margin-bottom: 0;
 }
-&#10;#zjhbbqwbwr .gt_row {
+&#10;#wmmrgvwowe .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -670,7 +670,7 @@ and education levels.
   vertical-align: middle;
   overflow-x: hidden;
 }
-&#10;#zjhbbqwbwr .gt_stub {
+&#10;#wmmrgvwowe .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -682,7 +682,7 @@ and education levels.
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#zjhbbqwbwr .gt_stub_row_group {
+&#10;#wmmrgvwowe .gt_stub_row_group {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -695,13 +695,13 @@ and education levels.
   padding-right: 5px;
   vertical-align: top;
 }
-&#10;#zjhbbqwbwr .gt_row_group_first td {
+&#10;#wmmrgvwowe .gt_row_group_first td {
   border-top-width: 2px;
 }
-&#10;#zjhbbqwbwr .gt_row_group_first th {
+&#10;#wmmrgvwowe .gt_row_group_first th {
   border-top-width: 2px;
 }
-&#10;#zjhbbqwbwr .gt_summary_row {
+&#10;#wmmrgvwowe .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -710,14 +710,14 @@ and education levels.
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#zjhbbqwbwr .gt_first_summary_row {
+&#10;#wmmrgvwowe .gt_first_summary_row {
   border-top-style: solid;
   border-top-color: #D3D3D3;
 }
-&#10;#zjhbbqwbwr .gt_first_summary_row.thick {
+&#10;#wmmrgvwowe .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
-&#10;#zjhbbqwbwr .gt_last_summary_row {
+&#10;#wmmrgvwowe .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -726,7 +726,7 @@ and education levels.
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
-&#10;#zjhbbqwbwr .gt_grand_summary_row {
+&#10;#wmmrgvwowe .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -735,7 +735,7 @@ and education levels.
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#zjhbbqwbwr .gt_first_grand_summary_row {
+&#10;#wmmrgvwowe .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -744,7 +744,7 @@ and education levels.
   border-top-width: 6px;
   border-top-color: #D3D3D3;
 }
-&#10;#zjhbbqwbwr .gt_last_grand_summary_row_top {
+&#10;#wmmrgvwowe .gt_last_grand_summary_row_top {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -753,10 +753,10 @@ and education levels.
   border-bottom-width: 6px;
   border-bottom-color: #D3D3D3;
 }
-&#10;#zjhbbqwbwr .gt_striped {
+&#10;#wmmrgvwowe .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
-&#10;#zjhbbqwbwr .gt_table_body {
+&#10;#wmmrgvwowe .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -764,7 +764,7 @@ and education levels.
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
-&#10;#zjhbbqwbwr .gt_footnotes {
+&#10;#wmmrgvwowe .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -777,7 +777,7 @@ and education levels.
   border-right-width: 2px;
   border-right-color: #D3D3D3;
 }
-&#10;#zjhbbqwbwr .gt_footnote {
+&#10;#wmmrgvwowe .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-top: 4px;
@@ -785,7 +785,7 @@ and education levels.
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#zjhbbqwbwr .gt_sourcenotes {
+&#10;#wmmrgvwowe .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -798,64 +798,64 @@ and education levels.
   border-right-width: 2px;
   border-right-color: #D3D3D3;
 }
-&#10;#zjhbbqwbwr .gt_sourcenote {
+&#10;#wmmrgvwowe .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#zjhbbqwbwr .gt_left {
+&#10;#wmmrgvwowe .gt_left {
   text-align: left;
 }
-&#10;#zjhbbqwbwr .gt_center {
+&#10;#wmmrgvwowe .gt_center {
   text-align: center;
 }
-&#10;#zjhbbqwbwr .gt_right {
+&#10;#wmmrgvwowe .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
-&#10;#zjhbbqwbwr .gt_font_normal {
+&#10;#wmmrgvwowe .gt_font_normal {
   font-weight: normal;
 }
-&#10;#zjhbbqwbwr .gt_font_bold {
+&#10;#wmmrgvwowe .gt_font_bold {
   font-weight: bold;
 }
-&#10;#zjhbbqwbwr .gt_font_italic {
+&#10;#wmmrgvwowe .gt_font_italic {
   font-style: italic;
 }
-&#10;#zjhbbqwbwr .gt_super {
+&#10;#wmmrgvwowe .gt_super {
   font-size: 65%;
 }
-&#10;#zjhbbqwbwr .gt_footnote_marks {
+&#10;#wmmrgvwowe .gt_footnote_marks {
   font-size: 75%;
   vertical-align: 0.4em;
   position: initial;
 }
-&#10;#zjhbbqwbwr .gt_asterisk {
+&#10;#wmmrgvwowe .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
-&#10;#zjhbbqwbwr .gt_indent_1 {
+&#10;#wmmrgvwowe .gt_indent_1 {
   text-indent: 5px;
 }
-&#10;#zjhbbqwbwr .gt_indent_2 {
+&#10;#wmmrgvwowe .gt_indent_2 {
   text-indent: 10px;
 }
-&#10;#zjhbbqwbwr .gt_indent_3 {
+&#10;#wmmrgvwowe .gt_indent_3 {
   text-indent: 15px;
 }
-&#10;#zjhbbqwbwr .gt_indent_4 {
+&#10;#wmmrgvwowe .gt_indent_4 {
   text-indent: 20px;
 }
-&#10;#zjhbbqwbwr .gt_indent_5 {
+&#10;#wmmrgvwowe .gt_indent_5 {
   text-indent: 25px;
 }
-&#10;#zjhbbqwbwr .katex-display {
+&#10;#wmmrgvwowe .katex-display {
   display: inline-flex !important;
   margin-bottom: 0.75em !important;
 }
-&#10;#zjhbbqwbwr div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
+&#10;#wmmrgvwowe div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
   height: 0px !important;
 }
 </style>
