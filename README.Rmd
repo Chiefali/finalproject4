@@ -1,0 +1,122 @@
+---
+title: "README"
+author: "JOSEPH"
+date: "`r Sys.Date()`"
+output: html_document
+---
+```{r setup, message=FALSE, warning=FALSE}
+library(dplyr)
+library(gtsummary)
+library(labelled)
+library(ggplot2)
+
+```
+
+
+
+
+```{r, load data, echo = FALSE}
+data <- readRDS("merged_clean.RDS")
+#sellect columns Name, pct_population_below_poverty, pct_adults_25plus_hs_or_higher, pct_adults_25plus_bachelors_or_higher
+project_data <- data |> 
+                select(NAME, pct_population_below_poverty, pct_adults_25plus_hs_or_higher, pct_adults_25plus_bachelors_or_higher)
+
+```
+
+ #Descriptive statistic and Table one
+```{r}
+library(labelled)
+library(gtsummary)
+
+```
+
+
+```{r}
+labelled::var_label(project_data) <- list(
+  NAME = "County",
+  pct_population_below_poverty = "Poverty (%)",
+  pct_adults_25plus_hs_or_higher = "High School (%)",
+  pct_adults_25plus_bachelors_or_higher = "Bachelors (%)"
+)
+```
+
+
+#poverty Groups
+```{r}
+project_data <- project_data |>
+  mutate(
+    poverty_group = ifelse(
+      pct_population_below_poverty >= median(pct_population_below_poverty, na.rm = TRUE),
+      "High Poverty",
+      "Low Poverty"
+    )
+  )
+```
+
+#Table 1
+```{r}
+
+
+table1 <- project_data |>
+  select(
+    poverty_group,
+    pct_adults_25plus_hs_or_higher,
+    pct_adults_25plus_bachelors_or_higher
+  ) |>
+  tbl_summary(
+    by = poverty_group,
+    statistic = all_continuous() ~ "{mean} ({sd})",
+    label = list(
+      pct_adults_25plus_hs_or_higher ~ "High School Education (%)",
+      pct_adults_25plus_bachelors_or_higher ~ "Bachelor's Degree (%)"
+    )
+  ) |>
+  add_p() |>
+  modify_header(label ~ "**Variable**") |>
+  modify_caption("**The Relationship Between Poverty Levels and Educational Attainment in Oklahoma**")
+
+table1
+```
+```{r}
+cor.test(project_data$pct_population_below_poverty,
+         project_data$pct_adults_25plus_bachelors_or_higher)
+```
+```{r}
+library(ggplot2)
+
+# Poverty vs High School
+ggplot(project_data, aes(x = pct_adults_25plus_hs_or_higher,
+                         y = pct_population_below_poverty)) +
+  geom_point() +
+  geom_smooth(method = "lm") +
+  labs(title = "Poverty vs High School Education",
+       x = "High School Education (%)",
+       y = "Poverty (%)")
+
+# Poverty vs Bachelors
+ggplot(project_data, aes(x = pct_adults_25plus_bachelors_or_higher,
+                         y = pct_population_below_poverty)) +
+  geom_point() +
+  geom_smooth(method = "lm") +
+  labs(title = "Poverty vs Bachelor's Education",
+       x = "Bachelor's Degree (%)",
+       y = "Poverty (%)")
+```
+
+```{r}
+library(gtsummary)
+
+model <- lm(
+  pct_population_below_poverty ~ 
+    pct_adults_25plus_hs_or_higher +
+    pct_adults_25plus_bachelors_or_higher,
+  data = project_data
+)
+
+reg_table <- tbl_regression(model) |>
+  add_global_p() |>
+  modify_caption("**Association Between Poverty Levels and Educational Attainment in Oklahoma**")
+
+reg_table
+```
+
