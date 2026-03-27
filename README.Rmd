@@ -13,7 +13,13 @@ library(ggplot2)
 
 ```
 
+# This project examines the relationship between poverty levels and educational attainment across counties in Oklahoma. Specifically, it explores how high school and bachelor's degree completion rates are associated with poverty levels.
 
+The analysis includes:
+
+A summary table comparing education levels across poverty groups
+Scatter plots visualizing relationships between poverty and education
+A regression model assessing these associations
 
 
 ```{r, load data, echo = FALSE}
@@ -74,7 +80,6 @@ table1
 ```
 
 ```{r}
-library(ggplot2)
 
 # Poverty vs High School
 ggplot(project_data, aes(x = pct_adults_25plus_hs_or_higher,
@@ -95,8 +100,10 @@ ggplot(project_data, aes(x = pct_adults_25plus_bachelors_or_higher,
        y = "Poverty (%)")
 ```
 
+#A linear regression model estimates the relationship between poverty and education levels.
+
+
 ```{r}
-library(gtsummary)
 
 model <- lm(
   pct_population_below_poverty ~ 
