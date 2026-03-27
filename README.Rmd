@@ -22,28 +22,24 @@ Scatter plots visualizing relationships between poverty and education
 A regression model assessing these associations
 
 
-```{r, load data, echo = FALSE}
-data <- readRDS("merged_clean.RDS")
-#sellect columns Name, pct_population_below_poverty, pct_adults_25plus_hs_or_higher, pct_adults_25plus_bachelors_or_higher
-project_data <- data |> 
-                select(NAME, pct_population_below_poverty, pct_adults_25plus_hs_or_higher, pct_adults_25plus_bachelors_or_higher)
-
-```
-
-
-
 ```{r}
+# Load data
+data <- readRDS("merged_clean.RDS")
+
+project_data <- data |> 
+  select(NAME, pct_population_below_poverty, 
+         pct_adults_25plus_hs_or_higher, 
+         pct_adults_25plus_bachelors_or_higher)
+
+# Add Labels
 labelled::var_label(project_data) <- list(
   NAME = "County",
   pct_population_below_poverty = "Poverty (%)",
   pct_adults_25plus_hs_or_higher = "High School (%)",
   pct_adults_25plus_bachelors_or_higher = "Bachelors (%)"
 )
-```
 
-
-#poverty Groups
-```{r}
+# Create Poverty Groups
 project_data <- project_data |>
   mutate(
     poverty_group = ifelse(
@@ -52,12 +48,12 @@ project_data <- project_data |>
       "Low Poverty"
     )
   )
+
 ```
 
-#Table 1
+
+
 ```{r}
-
-
 table1 <- project_data |>
   select(
     poverty_group,
@@ -73,38 +69,15 @@ table1 <- project_data |>
     )
   ) |>
   add_p() |>
-  modify_header(label ~ "**Variable**") |>
-  modify_caption("**The Relationship Between Poverty Levels and Educational Attainment in Oklahoma**")
+  modify_header(label ~ "**Variable**")
 
-table1
+# FIX: Convert to kable so it displays correctly on GitHub
+as_kable(table1)
 ```
 
+
+#regression
 ```{r}
-
-# Poverty vs High School
-ggplot(project_data, aes(x = pct_adults_25plus_hs_or_higher,
-                         y = pct_population_below_poverty)) +
-  geom_point() +
-  geom_smooth(method = "lm") +
-  labs(title = "Poverty vs High School Education",
-       x = "High School Education (%)",
-       y = "Poverty (%)")
-
-# Poverty vs Bachelors
-ggplot(project_data, aes(x = pct_adults_25plus_bachelors_or_higher,
-                         y = pct_population_below_poverty)) +
-  geom_point() +
-  geom_smooth(method = "lm") +
-  labs(title = "Poverty vs Bachelor's Education",
-       x = "Bachelor's Degree (%)",
-       y = "Poverty (%)")
-```
-
-#A linear regression model estimates the relationship between poverty and education levels.
-
-
-```{r}
-
 model <- lm(
   pct_population_below_poverty ~ 
     pct_adults_25plus_hs_or_higher +
@@ -113,9 +86,9 @@ model <- lm(
 )
 
 reg_table <- tbl_regression(model) |>
-  add_global_p() |>
-  modify_caption("**Association Between Poverty Levels and Educational Attainment in Oklahoma**")
+  add_global_p()
 
-reg_table
+# FIX: Convert to kable so it displays correctly on GitHub
+as_kable(reg_table)
 ```
 
