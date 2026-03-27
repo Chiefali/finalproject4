@@ -5,3 +5,7 @@
 *.html
 README_files/
 
+merged_clean.RDS
+*.Rproj
+.Rproj.user/
+*.html
