@@ -23,20 +23,20 @@ regression model assessing these associations
 
 \#Table 1
 
-<div id="dqvixckxbc" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
-<style>#dqvixckxbc table {
+<div id="meespuojxw" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>#meespuojxw table {
   font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-&#10;#dqvixckxbc thead, #dqvixckxbc tbody, #dqvixckxbc tfoot, #dqvixckxbc tr, #dqvixckxbc td, #dqvixckxbc th {
+&#10;#meespuojxw thead, #meespuojxw tbody, #meespuojxw tfoot, #meespuojxw tr, #meespuojxw td, #meespuojxw th {
   border-style: none;
 }
-&#10;#dqvixckxbc p {
+&#10;#meespuojxw p {
   margin: 0;
   padding: 0;
 }
-&#10;#dqvixckxbc .gt_table {
+&#10;#meespuojxw .gt_table {
   display: table;
   border-collapse: collapse;
   line-height: normal;
@@ -61,11 +61,11 @@ regression model assessing these associations
   border-left-width: 2px;
   border-left-color: #D3D3D3;
 }
-&#10;#dqvixckxbc .gt_caption {
+&#10;#meespuojxw .gt_caption {
   padding-top: 4px;
   padding-bottom: 4px;
 }
-&#10;#dqvixckxbc .gt_title {
+&#10;#meespuojxw .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -76,7 +76,7 @@ regression model assessing these associations
   border-bottom-color: #FFFFFF;
   border-bottom-width: 0;
 }
-&#10;#dqvixckxbc .gt_subtitle {
+&#10;#meespuojxw .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -87,7 +87,7 @@ regression model assessing these associations
   border-top-color: #FFFFFF;
   border-top-width: 0;
 }
-&#10;#dqvixckxbc .gt_heading {
+&#10;#meespuojxw .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -98,12 +98,12 @@ regression model assessing these associations
   border-right-width: 1px;
   border-right-color: #D3D3D3;
 }
-&#10;#dqvixckxbc .gt_bottom_border {
+&#10;#meespuojxw .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
-&#10;#dqvixckxbc .gt_col_headings {
+&#10;#meespuojxw .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -117,7 +117,7 @@ regression model assessing these associations
   border-right-width: 1px;
   border-right-color: #D3D3D3;
 }
-&#10;#dqvixckxbc .gt_col_heading {
+&#10;#meespuojxw .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -136,7 +136,7 @@ regression model assessing these associations
   padding-right: 5px;
   overflow-x: hidden;
 }
-&#10;#dqvixckxbc .gt_column_spanner_outer {
+&#10;#meespuojxw .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -147,13 +147,13 @@ regression model assessing these associations
   padding-left: 4px;
   padding-right: 4px;
 }
-&#10;#dqvixckxbc .gt_column_spanner_outer:first-child {
+&#10;#meespuojxw .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
-&#10;#dqvixckxbc .gt_column_spanner_outer:last-child {
+&#10;#meespuojxw .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
-&#10;#dqvixckxbc .gt_column_spanner {
+&#10;#meespuojxw .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -164,10 +164,10 @@ regression model assessing these associations
   display: inline-block;
   width: 100%;
 }
-&#10;#dqvixckxbc .gt_spanner_row {
+&#10;#meespuojxw .gt_spanner_row {
   border-bottom-style: hidden;
 }
-&#10;#dqvixckxbc .gt_group_heading {
+&#10;#meespuojxw .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -192,7 +192,7 @@ regression model assessing these associations
   vertical-align: middle;
   text-align: left;
 }
-&#10;#dqvixckxbc .gt_empty_group_heading {
+&#10;#meespuojxw .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -206,13 +206,13 @@ regression model assessing these associations
   border-bottom-color: #D3D3D3;
   vertical-align: middle;
 }
-&#10;#dqvixckxbc .gt_from_md > :first-child {
+&#10;#meespuojxw .gt_from_md > :first-child {
   margin-top: 0;
 }
-&#10;#dqvixckxbc .gt_from_md > :last-child {
+&#10;#meespuojxw .gt_from_md > :last-child {
   margin-bottom: 0;
 }
-&#10;#dqvixckxbc .gt_row {
+&#10;#meespuojxw .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -230,7 +230,7 @@ regression model assessing these associations
   vertical-align: middle;
   overflow-x: hidden;
 }
-&#10;#dqvixckxbc .gt_stub {
+&#10;#meespuojxw .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -242,7 +242,7 @@ regression model assessing these associations
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#dqvixckxbc .gt_stub_row_group {
+&#10;#meespuojxw .gt_stub_row_group {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -255,13 +255,13 @@ regression model assessing these associations
   padding-right: 5px;
   vertical-align: top;
 }
-&#10;#dqvixckxbc .gt_row_group_first td {
+&#10;#meespuojxw .gt_row_group_first td {
   border-top-width: 2px;
 }
-&#10;#dqvixckxbc .gt_row_group_first th {
+&#10;#meespuojxw .gt_row_group_first th {
   border-top-width: 2px;
 }
-&#10;#dqvixckxbc .gt_summary_row {
+&#10;#meespuojxw .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -270,14 +270,14 @@ regression model assessing these associations
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#dqvixckxbc .gt_first_summary_row {
+&#10;#meespuojxw .gt_first_summary_row {
   border-top-style: solid;
   border-top-color: #D3D3D3;
 }
-&#10;#dqvixckxbc .gt_first_summary_row.thick {
+&#10;#meespuojxw .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
-&#10;#dqvixckxbc .gt_last_summary_row {
+&#10;#meespuojxw .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -286,7 +286,7 @@ regression model assessing these associations
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
-&#10;#dqvixckxbc .gt_grand_summary_row {
+&#10;#meespuojxw .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -295,7 +295,7 @@ regression model assessing these associations
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#dqvixckxbc .gt_first_grand_summary_row {
+&#10;#meespuojxw .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -304,7 +304,7 @@ regression model assessing these associations
   border-top-width: 6px;
   border-top-color: #D3D3D3;
 }
-&#10;#dqvixckxbc .gt_last_grand_summary_row_top {
+&#10;#meespuojxw .gt_last_grand_summary_row_top {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -313,10 +313,10 @@ regression model assessing these associations
   border-bottom-width: 6px;
   border-bottom-color: #D3D3D3;
 }
-&#10;#dqvixckxbc .gt_striped {
+&#10;#meespuojxw .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
-&#10;#dqvixckxbc .gt_table_body {
+&#10;#meespuojxw .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -324,7 +324,7 @@ regression model assessing these associations
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
-&#10;#dqvixckxbc .gt_footnotes {
+&#10;#meespuojxw .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -337,7 +337,7 @@ regression model assessing these associations
   border-right-width: 2px;
   border-right-color: #D3D3D3;
 }
-&#10;#dqvixckxbc .gt_footnote {
+&#10;#meespuojxw .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-top: 4px;
@@ -345,7 +345,7 @@ regression model assessing these associations
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#dqvixckxbc .gt_sourcenotes {
+&#10;#meespuojxw .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -358,64 +358,64 @@ regression model assessing these associations
   border-right-width: 2px;
   border-right-color: #D3D3D3;
 }
-&#10;#dqvixckxbc .gt_sourcenote {
+&#10;#meespuojxw .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#dqvixckxbc .gt_left {
+&#10;#meespuojxw .gt_left {
   text-align: left;
 }
-&#10;#dqvixckxbc .gt_center {
+&#10;#meespuojxw .gt_center {
   text-align: center;
 }
-&#10;#dqvixckxbc .gt_right {
+&#10;#meespuojxw .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
-&#10;#dqvixckxbc .gt_font_normal {
+&#10;#meespuojxw .gt_font_normal {
   font-weight: normal;
 }
-&#10;#dqvixckxbc .gt_font_bold {
+&#10;#meespuojxw .gt_font_bold {
   font-weight: bold;
 }
-&#10;#dqvixckxbc .gt_font_italic {
+&#10;#meespuojxw .gt_font_italic {
   font-style: italic;
 }
-&#10;#dqvixckxbc .gt_super {
+&#10;#meespuojxw .gt_super {
   font-size: 65%;
 }
-&#10;#dqvixckxbc .gt_footnote_marks {
+&#10;#meespuojxw .gt_footnote_marks {
   font-size: 75%;
   vertical-align: 0.4em;
   position: initial;
 }
-&#10;#dqvixckxbc .gt_asterisk {
+&#10;#meespuojxw .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
-&#10;#dqvixckxbc .gt_indent_1 {
+&#10;#meespuojxw .gt_indent_1 {
   text-indent: 5px;
 }
-&#10;#dqvixckxbc .gt_indent_2 {
+&#10;#meespuojxw .gt_indent_2 {
   text-indent: 10px;
 }
-&#10;#dqvixckxbc .gt_indent_3 {
+&#10;#meespuojxw .gt_indent_3 {
   text-indent: 15px;
 }
-&#10;#dqvixckxbc .gt_indent_4 {
+&#10;#meespuojxw .gt_indent_4 {
   text-indent: 20px;
 }
-&#10;#dqvixckxbc .gt_indent_5 {
+&#10;#meespuojxw .gt_indent_5 {
   text-indent: 25px;
 }
-&#10;#dqvixckxbc .katex-display {
+&#10;#meespuojxw .katex-display {
   display: inline-flex !important;
   margin-bottom: 0.75em !important;
 }
-&#10;#dqvixckxbc div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
+&#10;#meespuojxw div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
   height: 0px !important;
 }
 </style>
@@ -463,20 +463,20 @@ N = 38</span><span class="gt_footnote_marks" style="white-space:nowrap;font-styl
 \#A linear regression model estimates the relationship between poverty
 and education levels.
 
-<div id="niachvtcuc" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
-<style>#niachvtcuc table {
+<div id="mdhssgdjpe" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>#mdhssgdjpe table {
   font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-&#10;#niachvtcuc thead, #niachvtcuc tbody, #niachvtcuc tfoot, #niachvtcuc tr, #niachvtcuc td, #niachvtcuc th {
+&#10;#mdhssgdjpe thead, #mdhssgdjpe tbody, #mdhssgdjpe tfoot, #mdhssgdjpe tr, #mdhssgdjpe td, #mdhssgdjpe th {
   border-style: none;
 }
-&#10;#niachvtcuc p {
+&#10;#mdhssgdjpe p {
   margin: 0;
   padding: 0;
 }
-&#10;#niachvtcuc .gt_table {
+&#10;#mdhssgdjpe .gt_table {
   display: table;
   border-collapse: collapse;
   line-height: normal;
@@ -501,11 +501,11 @@ and education levels.
   border-left-width: 2px;
   border-left-color: #D3D3D3;
 }
-&#10;#niachvtcuc .gt_caption {
+&#10;#mdhssgdjpe .gt_caption {
   padding-top: 4px;
   padding-bottom: 4px;
 }
-&#10;#niachvtcuc .gt_title {
+&#10;#mdhssgdjpe .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -516,7 +516,7 @@ and education levels.
   border-bottom-color: #FFFFFF;
   border-bottom-width: 0;
 }
-&#10;#niachvtcuc .gt_subtitle {
+&#10;#mdhssgdjpe .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -527,7 +527,7 @@ and education levels.
   border-top-color: #FFFFFF;
   border-top-width: 0;
 }
-&#10;#niachvtcuc .gt_heading {
+&#10;#mdhssgdjpe .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -538,12 +538,12 @@ and education levels.
   border-right-width: 1px;
   border-right-color: #D3D3D3;
 }
-&#10;#niachvtcuc .gt_bottom_border {
+&#10;#mdhssgdjpe .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
-&#10;#niachvtcuc .gt_col_headings {
+&#10;#mdhssgdjpe .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -557,7 +557,7 @@ and education levels.
   border-right-width: 1px;
   border-right-color: #D3D3D3;
 }
-&#10;#niachvtcuc .gt_col_heading {
+&#10;#mdhssgdjpe .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -576,7 +576,7 @@ and education levels.
   padding-right: 5px;
   overflow-x: hidden;
 }
-&#10;#niachvtcuc .gt_column_spanner_outer {
+&#10;#mdhssgdjpe .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -587,13 +587,13 @@ and education levels.
   padding-left: 4px;
   padding-right: 4px;
 }
-&#10;#niachvtcuc .gt_column_spanner_outer:first-child {
+&#10;#mdhssgdjpe .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
-&#10;#niachvtcuc .gt_column_spanner_outer:last-child {
+&#10;#mdhssgdjpe .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
-&#10;#niachvtcuc .gt_column_spanner {
+&#10;#mdhssgdjpe .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -604,10 +604,10 @@ and education levels.
   display: inline-block;
   width: 100%;
 }
-&#10;#niachvtcuc .gt_spanner_row {
+&#10;#mdhssgdjpe .gt_spanner_row {
   border-bottom-style: hidden;
 }
-&#10;#niachvtcuc .gt_group_heading {
+&#10;#mdhssgdjpe .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -632,7 +632,7 @@ and education levels.
   vertical-align: middle;
   text-align: left;
 }
-&#10;#niachvtcuc .gt_empty_group_heading {
+&#10;#mdhssgdjpe .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -646,13 +646,13 @@ and education levels.
   border-bottom-color: #D3D3D3;
   vertical-align: middle;
 }
-&#10;#niachvtcuc .gt_from_md > :first-child {
+&#10;#mdhssgdjpe .gt_from_md > :first-child {
   margin-top: 0;
 }
-&#10;#niachvtcuc .gt_from_md > :last-child {
+&#10;#mdhssgdjpe .gt_from_md > :last-child {
   margin-bottom: 0;
 }
-&#10;#niachvtcuc .gt_row {
+&#10;#mdhssgdjpe .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -670,7 +670,7 @@ and education levels.
   vertical-align: middle;
   overflow-x: hidden;
 }
-&#10;#niachvtcuc .gt_stub {
+&#10;#mdhssgdjpe .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -682,7 +682,7 @@ and education levels.
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#niachvtcuc .gt_stub_row_group {
+&#10;#mdhssgdjpe .gt_stub_row_group {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -695,13 +695,13 @@ and education levels.
   padding-right: 5px;
   vertical-align: top;
 }
-&#10;#niachvtcuc .gt_row_group_first td {
+&#10;#mdhssgdjpe .gt_row_group_first td {
   border-top-width: 2px;
 }
-&#10;#niachvtcuc .gt_row_group_first th {
+&#10;#mdhssgdjpe .gt_row_group_first th {
   border-top-width: 2px;
 }
-&#10;#niachvtcuc .gt_summary_row {
+&#10;#mdhssgdjpe .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -710,14 +710,14 @@ and education levels.
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#niachvtcuc .gt_first_summary_row {
+&#10;#mdhssgdjpe .gt_first_summary_row {
   border-top-style: solid;
   border-top-color: #D3D3D3;
 }
-&#10;#niachvtcuc .gt_first_summary_row.thick {
+&#10;#mdhssgdjpe .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
-&#10;#niachvtcuc .gt_last_summary_row {
+&#10;#mdhssgdjpe .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -726,7 +726,7 @@ and education levels.
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
-&#10;#niachvtcuc .gt_grand_summary_row {
+&#10;#mdhssgdjpe .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -735,7 +735,7 @@ and education levels.
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#niachvtcuc .gt_first_grand_summary_row {
+&#10;#mdhssgdjpe .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -744,7 +744,7 @@ and education levels.
   border-top-width: 6px;
   border-top-color: #D3D3D3;
 }
-&#10;#niachvtcuc .gt_last_grand_summary_row_top {
+&#10;#mdhssgdjpe .gt_last_grand_summary_row_top {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -753,10 +753,10 @@ and education levels.
   border-bottom-width: 6px;
   border-bottom-color: #D3D3D3;
 }
-&#10;#niachvtcuc .gt_striped {
+&#10;#mdhssgdjpe .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
-&#10;#niachvtcuc .gt_table_body {
+&#10;#mdhssgdjpe .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -764,7 +764,7 @@ and education levels.
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
-&#10;#niachvtcuc .gt_footnotes {
+&#10;#mdhssgdjpe .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -777,7 +777,7 @@ and education levels.
   border-right-width: 2px;
   border-right-color: #D3D3D3;
 }
-&#10;#niachvtcuc .gt_footnote {
+&#10;#mdhssgdjpe .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-top: 4px;
@@ -785,7 +785,7 @@ and education levels.
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#niachvtcuc .gt_sourcenotes {
+&#10;#mdhssgdjpe .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -798,64 +798,64 @@ and education levels.
   border-right-width: 2px;
   border-right-color: #D3D3D3;
 }
-&#10;#niachvtcuc .gt_sourcenote {
+&#10;#mdhssgdjpe .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#niachvtcuc .gt_left {
+&#10;#mdhssgdjpe .gt_left {
   text-align: left;
 }
-&#10;#niachvtcuc .gt_center {
+&#10;#mdhssgdjpe .gt_center {
   text-align: center;
 }
-&#10;#niachvtcuc .gt_right {
+&#10;#mdhssgdjpe .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
-&#10;#niachvtcuc .gt_font_normal {
+&#10;#mdhssgdjpe .gt_font_normal {
   font-weight: normal;
 }
-&#10;#niachvtcuc .gt_font_bold {
+&#10;#mdhssgdjpe .gt_font_bold {
   font-weight: bold;
 }
-&#10;#niachvtcuc .gt_font_italic {
+&#10;#mdhssgdjpe .gt_font_italic {
   font-style: italic;
 }
-&#10;#niachvtcuc .gt_super {
+&#10;#mdhssgdjpe .gt_super {
   font-size: 65%;
 }
-&#10;#niachvtcuc .gt_footnote_marks {
+&#10;#mdhssgdjpe .gt_footnote_marks {
   font-size: 75%;
   vertical-align: 0.4em;
   position: initial;
 }
-&#10;#niachvtcuc .gt_asterisk {
+&#10;#mdhssgdjpe .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
-&#10;#niachvtcuc .gt_indent_1 {
+&#10;#mdhssgdjpe .gt_indent_1 {
   text-indent: 5px;
 }
-&#10;#niachvtcuc .gt_indent_2 {
+&#10;#mdhssgdjpe .gt_indent_2 {
   text-indent: 10px;
 }
-&#10;#niachvtcuc .gt_indent_3 {
+&#10;#mdhssgdjpe .gt_indent_3 {
   text-indent: 15px;
 }
-&#10;#niachvtcuc .gt_indent_4 {
+&#10;#mdhssgdjpe .gt_indent_4 {
   text-indent: 20px;
 }
-&#10;#niachvtcuc .gt_indent_5 {
+&#10;#mdhssgdjpe .gt_indent_5 {
   text-indent: 25px;
 }
-&#10;#niachvtcuc .katex-display {
+&#10;#mdhssgdjpe .katex-display {
   display: inline-flex !important;
   margin-bottom: 0.75em !important;
 }
-&#10;#niachvtcuc div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
+&#10;#mdhssgdjpe div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
   height: 0px !important;
 }
 </style>
